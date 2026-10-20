@@ -1,0 +1,143 @@
+{
+ "_note": "Recorded 2026-10-20 from images-api.nasa.gov (q=camera, video), first 2 items.",
+ "collection": {
+  "version": "1.1",
+  "href": "http://images-api.nasa.gov/search?q=camera&media_type=video&page_size=8",
+  "items": [
+   {
+    "href": "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/collection.json",
+    "data": [
+     {
+      "center": "HQ",
+      "date_created": "2022-11-18T00:00:00Z",
+      "description": "Description: Recent Artemis I footage captured by rocket cameras during ascent aboard the Artemis I spacecraft. Footage includes live recordings of Artemis I’s Booster Separation, and Artemis I’s Booster Jettison.",
+      "keywords": [
+       "NASA",
+       "Artemis I",
+       "Artemis I Rocket Camera Footage"
+      ],
+      "media_type": "video",
+      "nasa_id": "Artemis I - Rocket Camera Footage",
+      "title": "Artemis I Rocket Camera Footage of Ascent"
+     }
+    ],
+    "links": [
+     {
+      "href": "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 800,
+      "size": 26000,
+      "height": 450
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~medium.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 400,
+      "size": 11000,
+      "height": 225
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 200,
+      "size": 3800,
+      "height": 112
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb.jpg",
+      "rel": "preview",
+      "render": "image",
+      "width": 300,
+      "size": 6900,
+      "height": 168
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage.srt",
+      "rel": "captions"
+     }
+    ]
+   },
+   {
+    "href": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/collection.json",
+    "data": [
+     {
+      "center": "GSFC",
+      "date_created": "2008-05-20T00:00:00Z",
+      "description": "Hubble's Advanced Camera for Surveys (ACS) was responsible for many of Hubble's most impressive images of deep space. In January 2007, ACS experienced an electrical short that put two of its three cameras out of commission. ACS contains a trio of cameras: the wide field camera, the high-resolution camera, and the solar blind camera. Each performed a specific function. This animation depicts the power flow before and after the SM4 crew services the instrument on orbit.",
+      "description_508": "Advanced Camera for Surveys power flow before and after Servicing Mission 4.",
+      "keywords": [
+       "Hubble Space Telescope",
+       "HST",
+       "SM4",
+       "Servicing Mission 4",
+       "Astrophysics",
+       "Universe",
+       "Space",
+       "Cosmic Origins",
+       "Spectograph",
+       "ACS",
+       "Camera",
+       "Advanced Camera for Surveys"
+      ],
+      "location": "Goddard Space Flight Center",
+      "media_type": "video",
+      "nasa_id": "GSFC_20080520_HST_m10225_ACS_Power_Flow",
+      "secondary_creator": "Michael McClare, Pete Alea",
+      "title": "HST Advance Camera For Surveys Power Flow"
+     }
+    ],
+    "links": [
+     {
+      "href": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~large.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 800,
+      "size": 14000,
+      "height": 450
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~medium.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 400,
+      "size": 6100,
+      "height": 225
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~small.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 200,
+      "size": 2700,
+      "height": 112
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~thumb.jpg",
+      "rel": "preview",
+      "render": "image",
+      "width": 300,
+      "size": 4600,
+      "height": 168
+     },
+     {
+      "href": "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow.vtt",
+      "rel": "captions"
+     }
+    ]
+   }
+  ],
+  "metadata": {
+   "total_hits": 297
+  },
+  "links": [
+   {
+    "rel": "next",
+    "prompt": "Next",
+    "href": "http://images-api.nasa.gov/search?q=camera&media_type=video&page_size=8&page=2"
+   }
+  ]
+ }
+}

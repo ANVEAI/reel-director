@@ -1,0 +1,63 @@
+{
+ "AVAIL:Album": [],
+ "AVAIL:Center": "HQ",
+ "AVAIL:Creator": null,
+ "AVAIL:DateCreated": "18 November 2022",
+ "AVAIL:Description": "Description: Recent Artemis I footage captured by rocket cameras during ascent aboard the Artemis I spacecraft. Footage includes live recordings of Artemis I\u2019s Booster Separation, and Artemis I\u2019s Booster Jettison.",
+ "AVAIL:Description508": "",
+ "AVAIL:Keywords": [
+  "NASA",
+  "Artemis I",
+  "Artemis I Rocket Camera Footage"
+ ],
+ "AVAIL:Location": "",
+ "AVAIL:MediaType": "video",
+ "AVAIL:NASAID": "Artemis I - Rocket Camera Footage",
+ "AVAIL:Owner": "smadhur",
+ "AVAIL:Photographer": "",
+ "AVAIL:SecondaryCreator": "",
+ "AVAIL:Thumbnails": {
+  "large": [
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large_1.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large_2.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large_3.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large_4.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~large_5.jpg"
+  ],
+  "medium": [
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~medium_1.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~medium_2.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~medium_3.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~medium_4.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~medium_5.jpg"
+  ],
+  "small": [
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small_1.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small_2.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small_3.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small_4.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~small_5.jpg"
+  ],
+  "thumb": [
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb_1.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb_2.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb_3.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb_4.jpg",
+   "https://images-assets.nasa.gov/video/Artemis I - Rocket Camera Footage/Artemis I - Rocket Camera Footage~thumb_5.jpg"
+  ]
+ },
+ "AVAIL:Title": "Artemis I Rocket Camera Footage of Ascent",
+ "Composite:AvgBitrate": "20.2 Mbps",
+ "Composite:ImageSize": "1920x1080",
+ "Composite:Megapixels": 2.1,
+ "Composite:Rotation": 0,
+ "File:FileSize": "69 MiB",
+ "QuickTime:Duration": "28.57 s",
+ "QuickTime:ImageHeight": 1080,
+ "QuickTime:ImageWidth": 1920,
+ "QuickTime:MediaDuration": "28.57 s",
+ "QuickTime:VideoFrameRate": 25
+}

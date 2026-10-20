@@ -1,0 +1,81 @@
+{
+ "_note": "Shaped from the Openverse API v1 docs (api.openverse.org returned 504 on 2026-10-20); result 3 is by-nd and must be rejected client-side.",
+ "result_count": 3,
+ "page_count": 1,
+ "page_size": 20,
+ "page": 1,
+ "results": [
+  {
+   "id": "1b9a6d6e-4f1e-4e2b-9a55-0c3f5d6a7b10",
+   "title": "Laptop on a wooden desk",
+   "indexed_on": "2024-03-02T10:11:12Z",
+   "foreign_landing_url": "https://www.flickr.com/photos/example/123",
+   "url": "https://live.staticflickr.com/65535/123_abc_o.jpg",
+   "creator": "Jane Doe",
+   "creator_url": "https://www.flickr.com/photos/example",
+   "license": "by",
+   "license_version": "2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "provider": "flickr",
+   "source": "flickr",
+   "category": "photograph",
+   "filesize": 2400000,
+   "filetype": "jpg",
+   "tags": [
+    {
+     "name": "laptop",
+     "accuracy": null
+    },
+    {
+     "name": "desk",
+     "accuracy": null
+    }
+   ],
+   "attribution": "\"Laptop on a wooden desk\" by Jane Doe is licensed under CC BY 2.0.",
+   "mature": false,
+   "height": 3000,
+   "width": 2000,
+   "thumbnail": "https://api.openverse.org/v1/images/1b9a6d6e-4f1e-4e2b-9a55-0c3f5d6a7b10/thumb/",
+   "detail_url": "https://api.openverse.org/v1/images/1b9a6d6e-4f1e-4e2b-9a55-0c3f5d6a7b10/"
+  },
+  {
+   "id": "2c8b7e7f-5a2f-4f3c-8b66-1d4e6e7b8c21",
+   "title": "Open laptop showing a video editing timeline",
+   "foreign_landing_url": "https://commons.wikimedia.org/wiki/File:Editing.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Editing.jpg",
+   "creator": "",
+   "license": "cc0",
+   "license_version": "1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "provider": "wikimedia",
+   "source": "wikimedia",
+   "filetype": "jpg",
+   "tags": [
+    {
+     "name": "computer"
+    }
+   ],
+   "mature": false,
+   "height": 2400,
+   "width": 1350,
+   "thumbnail": "https://api.openverse.org/v1/images/2c8b7e7f-5a2f-4f3c-8b66-1d4e6e7b8c21/thumb/"
+  },
+  {
+   "id": "3d9c8f80-6b30-4a4d-9c77-2e5f7f8c9d32",
+   "title": "Laptop keyboard macro",
+   "foreign_landing_url": "https://www.flickr.com/photos/example/456",
+   "url": "https://live.staticflickr.com/65535/456_def_o.jpg",
+   "creator": "John Roe",
+   "license": "by-nd",
+   "license_version": "2.0",
+   "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+   "provider": "flickr",
+   "source": "flickr",
+   "tags": [],
+   "mature": false,
+   "height": 4000,
+   "width": 6000,
+   "thumbnail": "https://api.openverse.org/v1/images/3d9c8f80/thumb/"
+  }
+ ]
+}

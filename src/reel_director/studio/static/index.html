@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <link rel="icon" href="data:,">
+  <title>Reel Director Studio</title>
+  <link rel="stylesheet" href="/static/studio.css">
+  <link rel="stylesheet" href="/static/review.css">
+  <link rel="stylesheet" href="/static/broll.css">
+  <script type="module" src="/static/studio.js"></script>
+</head>
+<body data-rec="idle">
+  <!-- Top centre, closest to the webcam: the creator's eyes stay near the lens while reading. -->
+  <header class="prompter" aria-label="Teleprompter">
+    <div class="prompter-meta">
+      <span id="shot-pos">Loading script…</span>
+      <span id="count-pill" class="count-pill" hidden></span>
+      <span id="verdict-pill" class="verdict-pill" role="status" hidden></span>
+      <span id="rec-pill" class="rec-pill" hidden><i class="dot"></i>REC <span id="rec-pill-time">0:00.0</span></span>
+    </div>
+    <p id="line" class="line" aria-live="polite"></p>
+    <p id="cues" class="cues"></p>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar" aria-label="Shots and takes">
+      <div class="side-head">
+        <h1 id="title">Reel Director Studio</h1>
+        <p id="summary" class="muted small"></p>
+      </div>
+      <ol id="shots" class="shots"></ol>
+    </aside>
+
+    <section class="center" aria-label="Camera preview">
+      <div id="stage" class="stage">
+        <video id="preview" autoplay muted playsinline disablepictureinpicture></video>
+        <canvas id="overlay" aria-hidden="true"></canvas>
+        <p id="face-hint" class="face-hint" hidden></p>
+        <div id="rec-badge" class="rec-badge" hidden>
+          <i class="dot"></i>REC <span id="rec-time">0:00.0</span> <span id="rec-est" class="est"></span>
+        </div>
+        <div id="countdown" class="countdown" hidden aria-live="assertive"></div>
+        <p id="stage-msg" class="stage-msg">Starting camera…</p>
+        <div id="toasts" class="toasts" aria-live="polite"></div>
+      </div>
+      <div class="stage-bar">
+        <div id="cam-badges" class="badges"></div>
+        <p id="fmt" class="muted small"></p>
+      </div>
+    </section>
+
+    <aside class="panel" aria-label="Capture settings">
+      <section class="block">
+        <button id="rec-btn" class="rec-btn" type="button">Record</button>
+        <p id="rec-why" class="rec-why" role="status"></p>
+        <p class="keys">
+          <kbd>Space</kbd> record / stop ·
+          <span title="Sets the take in progress aside (kept in raw/discarded/) and counts in again"><kbd>R</kbd> start the take over</span><br>
+          <kbd>N</kbd> <kbd>→</kbd> next shot · <kbd>P</kbd> <kbd>←</kbd> previous shot
+        </p>
+        <label class="check"><input type="checkbox" id="auto-advance"> Go to the next shot after a great take</label>
+      </section>
+
+      <section class="block">
+        <h2>Levels</h2>
+        <div class="meter-row">
+          <div class="meter" role="img" aria-label="Microphone level">
+            <div class="meter-zone" title="Aim speech peaks here (−18 to −6 dBFS)"></div>
+            <div id="meter-mask" class="meter-mask"></div>
+            <div id="meter-hold" class="meter-hold"></div>
+          </div>
+          <span id="clip" class="clip" title="Lights when the mic hits −0.3 dBFS">CLIP</span>
+        </div>
+        <div class="meter-scale" aria-hidden="true">
+          <span style="left:0%">−60</span><span style="left:33.3%">−40</span><span style="left:66.7%">−20</span><span style="left:90%">−6</span><span style="left:100%">0</span>
+        </div>
+        <p id="meter-read" class="readout">Waiting for the microphone…</p>
+        <p id="noise" class="readout">Room noise: measuring…</p>
+        <p id="exposure" class="readout">Brightness: waiting for the camera…</p>
+      </section>
+
+      <section class="block">
+        <h2>Build</h2>
+        <label class="small muted preset-row">Style <select id="preset-pick" aria-label="Style preset"></select></label>
+        <label class="check opt"><input type="checkbox" id="opt-director"> Editing director: Claude reviews the
+          before/after and fixes the edit (up to 2 more renders)</label>
+        <label class="check opt"><input type="checkbox" id="opt-matte"> Soften the background behind you
+          (person matte: blur + dim, ~15 s more per take)</label>
+        <button id="build-btn" class="build-btn" type="button" disabled>Build reel</button>
+        <button id="preview-btn" class="preview-btn" type="button"
+          title="See the edit now: your takes where you have them, RECORD slots where you don't">Preview edit</button>
+        <p id="build-why" class="muted small"></p>
+        <ol id="build-steps" class="steps"></ol>
+        <p id="build-state" class="build-state"></p>
+        <pre id="build-log" class="log" hidden></pre>
+        <button id="reel-open" type="button" hidden>Watch the finished reel</button>
+      </section>
+
+      <section class="block" id="broll-block" aria-label="B-roll">
+        <h2>B-roll</h2>
+        <p id="broll-note" class="small muted">Loading the B-roll picks…</p>
+        <p id="broll-yt" class="note warn" hidden></p>
+        <ol id="broll-list" class="br-list"></ol>
+        <p id="broll-spend" class="small muted"></p>
+        <details id="broll-credits-box" class="br-credits" hidden>
+          <summary class="small">Credits and licences</summary>
+          <ul id="broll-credits" class="small"></ul>
+        </details>
+      </section>
+
+      <section class="block">
+        <h2>Camera</h2>
+        <select id="cam-select" aria-label="Camera"></select>
+        <p id="cam-note" class="note" hidden></p>
+        <label class="check"><input type="checkbox" id="mirror"> Mirror the preview (takes are never mirrored)</label>
+      </section>
+
+      <section class="block">
+        <h2>Microphone</h2>
+        <select id="mic-select" aria-label="Microphone"></select>
+        <p id="mic-warn" class="note" hidden></p>
+        <div id="mic-badges" class="badges"></div>
+      </section>
+    </aside>
+  </main>
+
+  <div id="banners" class="banners" aria-live="assertive"></div>
+
+  <dialog id="reel-dialog" aria-label="Finished reel">
+    <div class="reel">
+      <video id="reel-video" controls playsinline preload="metadata"></video>
+      <div class="reel-info">
+        <h2 id="reel-title">Finished reel</h2>
+        <p id="reel-stats"></p>
+        <table>
+          <thead><tr><th>Shot</th><th>Take used</th><th>Cuts</th></tr></thead>
+          <tbody id="reel-shots"></tbody>
+        </table>
+        <section id="reel-qa" class="reel-qa" aria-label="Quality check" hidden>
+          <p id="reel-verdict" class="qa-verdict"></p>
+          <ul id="reel-gates" class="checks qa-gates"></ul>
+          <p id="reel-director" class="small muted"></p>
+          <a id="reel-ba-link" target="_blank" rel="noopener" title="Open the before / after sheet full size">
+            <img id="reel-ba" class="qa-ba" alt="Before / after: the raw take next to the edited reel at the same moments">
+          </a>
+        </section>
+        <form method="dialog"><button type="submit">Close</button></form>
+      </div>
+    </div>
+  </dialog>
+</body>
+</html>

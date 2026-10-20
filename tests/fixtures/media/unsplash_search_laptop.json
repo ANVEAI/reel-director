@@ -1,0 +1,47 @@
+{
+ "_note": "Shaped from https://unsplash.com/documentation#search-photos (2026-10-20).",
+ "total": 1,
+ "total_pages": 1,
+ "results": [
+  {
+   "id": "eOLpJytrbsQ",
+   "created_at": "2014-11-18T14:35:36-05:00",
+   "width": 4000,
+   "height": 6000,
+   "color": "#A7A2A1",
+   "description": "A laptop on a desk with an editing timeline",
+   "alt_description": "black laptop computer turned on",
+   "urls": {
+    "raw": "https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?ixid=abc123",
+    "full": "https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?ixid=abc123&q=85",
+    "regular": "https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?ixid=abc123&w=1080",
+    "small": "https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?ixid=abc123&w=400",
+    "thumb": "https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?ixid=abc123&w=200"
+   },
+   "links": {
+    "self": "https://api.unsplash.com/photos/eOLpJytrbsQ",
+    "html": "https://unsplash.com/photos/eOLpJytrbsQ",
+    "download": "https://unsplash.com/photos/eOLpJytrbsQ/download",
+    "download_location": "https://api.unsplash.com/photos/eOLpJytrbsQ/download?ixid=abc123"
+   },
+   "user": {
+    "id": "Ul0QVz12Goo",
+    "username": "ugmonk",
+    "name": "Jeff Sheldon",
+    "links": {
+     "html": "https://unsplash.com/@ugmonk"
+    }
+   },
+   "tags": [
+    {
+     "type": "search",
+     "title": "laptop"
+    },
+    {
+     "type": "search",
+     "title": "desk"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "_note": "Shaped from https://api.coverr.co/docs/videos/ (2026-10-20).",
+ "page": 0,
+ "pages": 1,
+ "page_size": 20,
+ "total": 2,
+ "hits": [
+  {
+   "id": "aB3dE5fG7h",
+   "created_at": "2023-01-01T00:00:00Z",
+   "title": "Clock ticking on a wall",
+   "poster": "https://cdn.coverr.co/videos/clock/poster.jpg",
+   "thumbnail": "https://cdn.coverr.co/videos/clock/thumbnail.jpg",
+   "description": "Close-up of a wall clock, seconds hand ticking",
+   "is_vertical": false,
+   "tags": [
+    "clock",
+    "time"
+   ],
+   "downloads": 4,
+   "views": 1,
+   "aspect_ratio": "16:9",
+   "duration": 11.625,
+   "max_height": 1152,
+   "max_width": 2048,
+   "urls": {
+    "mp4": "https://storage.coverr.co/videos/aB3dE5fG7h?token=JWT1",
+    "mp4_preview": "https://storage.coverr.co/videos/aB3dE5fG7h/preview?token=JWT1",
+    "mp4_download": "https://storage.coverr.co/videos/aB3dE5fG7h/download?token=JWT1"
+   }
+  },
+  {
+   "id": "Vert1cal99",
+   "title": "Hourglass vertical",
+   "thumbnail": "https://cdn.coverr.co/videos/hourglass/thumbnail.jpg",
+   "description": "",
+   "is_vertical": true,
+   "tags": [
+    "time"
+   ],
+   "aspect_ratio": "9:16",
+   "duration": 8.0,
+   "max_height": 1920,
+   "max_width": 1080,
+   "urls": {
+    "mp4": "https://storage.coverr.co/videos/Vert1cal99?token=JWT2",
+    "mp4_download": "https://storage.coverr.co/videos/Vert1cal99/download?token=JWT2"
+   }
+  }
+ ]
+}

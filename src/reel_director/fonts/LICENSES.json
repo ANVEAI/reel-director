@@ -1,0 +1,97 @@
+{
+ "montserrat": {
+  "family": "Montserrat",
+  "package": "@fontsource/montserrat",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/montserrat/-/montserrat-5.3.0.tgz",
+  "files": [
+   "montserrat-latin-800-normal.woff2",
+   "montserrat-latin-900-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "anton": {
+  "family": "Anton",
+  "package": "@fontsource/anton",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/anton/-/anton-5.3.0.tgz",
+  "files": [
+   "anton-latin-400-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "bebas-neue": {
+  "family": "Bebas Neue",
+  "package": "@fontsource/bebas-neue",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/bebas-neue/-/bebas-neue-5.3.0.tgz",
+  "files": [
+   "bebas-neue-latin-400-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "inter": {
+  "family": "Inter",
+  "package": "@fontsource/inter",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/inter/-/inter-5.3.0.tgz",
+  "files": [
+   "inter-latin-400-normal.woff2",
+   "inter-latin-700-normal.woff2",
+   "inter-latin-800-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "bangers": {
+  "family": "Bangers",
+  "package": "@fontsource/bangers",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/bangers/-/bangers-5.3.0.tgz",
+  "files": [
+   "bangers-latin-400-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "instrument-serif": {
+  "family": "Instrument Serif",
+  "package": "@fontsource/instrument-serif",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/instrument-serif/-/instrument-serif-5.3.0.tgz",
+  "files": [
+   "instrument-serif-latin-400-normal.woff2",
+   "instrument-serif-latin-400-italic.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "noto-sans-devanagari": {
+  "family": "Noto Sans Devanagari",
+  "package": "@fontsource/noto-sans-devanagari",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/noto-sans-devanagari/-/noto-sans-devanagari-5.3.0.tgz",
+  "files": [
+   "noto-sans-devanagari-devanagari-700-normal.woff2",
+   "noto-sans-devanagari-devanagari-800-normal.woff2",
+   "noto-sans-devanagari-latin-700-normal.woff2",
+   "noto-sans-devanagari-latin-800-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ },
+ "archivo-black": {
+  "family": "Archivo Black",
+  "package": "@fontsource/archivo-black",
+  "version": "5.3.0",
+  "license": "OFL-1.1",
+  "source": "https://registry.npmjs.org/@fontsource/archivo-black/-/archivo-black-5.3.0.tgz",
+  "files": [
+   "archivo-black-latin-400-normal.woff2"
+  ],
+  "license_file": "OFL.txt"
+ }
+}

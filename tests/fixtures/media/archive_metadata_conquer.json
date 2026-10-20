@@ -1,0 +1,95 @@
+{
+ "_note": "Recorded 2026-10-20 from archive.org/metadata/Conquerb1943, files trimmed to media formats + 6 thumbnails.",
+ "metadata": {
+  "mediatype": "movies",
+  "identifier": "Conquerb1943",
+  "creator": "RKO-Pathe",
+  "date": "1943",
+  "licenseurl": "http://creativecommons.org/licenses/publicdomain/",
+  "collection": "prelinger",
+  "title": "Conquer by the Clock"
+ },
+ "files": [
+  {
+   "name": "Conquerb1943.mp4",
+   "source": "derivative",
+   "format": "h.264",
+   "size": "66727169",
+   "length": "640.47",
+   "height": "480",
+   "width": "640"
+  },
+  {
+   "name": "Conquerb1943.mpeg",
+   "source": "original",
+   "format": "MPEG2",
+   "size": "295740095",
+   "length": "640.44",
+   "height": "480",
+   "width": "640"
+  },
+  {
+   "name": "Conquerb1943.ogv",
+   "source": "derivative",
+   "format": "Ogg Video",
+   "size": "45103267",
+   "length": "640.54",
+   "height": "304",
+   "width": "400"
+  },
+  {
+   "name": "Conquerb1943_512kb.mp4",
+   "source": "derivative",
+   "format": "512Kb MPEG4",
+   "size": "45263721",
+   "length": "640.54",
+   "height": "240",
+   "width": "320"
+  },
+  {
+   "name": "Conquerb1943_edit.mp4",
+   "source": "original",
+   "format": "HiRes MPEG4",
+   "size": "113663460",
+   "length": "640.3",
+   "height": "240",
+   "width": "320"
+  },
+  {
+   "name": "Conquerb1943.thumbs/Conquerb1943_000001.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "size": "1481"
+  },
+  {
+   "name": "Conquerb1943.thumbs/Conquerb1943_000030.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "size": "3710"
+  },
+  {
+   "name": "Conquerb1943.thumbs/Conquerb1943_000060.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "size": "4772"
+  },
+  {
+   "name": "Conquerb1943.thumbs/Conquerb1943_000090.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "size": "5400"
+  },
+  {
+   "name": "Conquerb1943.thumbs/Conquerb1943_000120.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "size": "4597"
+  },
+  {
+   "name": "Conquerb1943.thumbs/Conquerb1943_000150.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "size": "3985"
+  }
+ ]
+}

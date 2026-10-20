@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width={w}, height={h}" />
+<title>{title}</title>
+<script src="{gsap}"></script>
+<link rel="stylesheet" href="assets/rd/reel.css" />
+<style>:root {{ {vars} }} html, body {{ width: {w}px; height: {h}px; }}</style>
+</head>
+<body class="{cls}">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs id="mp-defs"></defs></svg>
+<div id="root" data-composition-id="main" data-start="0" data-width="{w}" data-height="{h}" data-duration="{dur}" data-fps="{fps}">
+  <div id="stage">
+    <div id="cam">
+      {cam}
+    </div>
+    {stage}
+  </div>
+  <div id="fx-vig" class="fx"></div>
+  {gfx}
+  <div id="caps">
+{caps}
+  </div>
+  <div id="fx-grain" class="fx"></div>
+  <div id="progress"><div id="progress-fill"></div></div>
+  {audio}
+  <div id="rd-error"></div>
+</div>
+<script type="application/json" id="rd-plan">{plan}</script>
+<script type="module">
+  const P = JSON.parse(document.getElementById("rd-plan").textContent);
+  window.__timelines = window.__timelines || {{}};
+  const tl = gsap.timeline({{ paused: true }});
+  try {{
+    const m = await import("./assets/rd/reel.mjs");
+    const draw = await m.build(P);
+    const o = {{ t: 0 }};
+    tl.fromTo(o, {{ t: 0 }}, {{ t: P.D, duration: P.D, ease: "none", immediateRender: false, onUpdate: () => draw(o.t) }}, 0);
+    window.addEventListener("hf-seek", (e) => draw(e.detail && e.detail.time));
+    draw(0);
+  }} catch (e) {{
+    const el = document.getElementById("rd-error");
+    el.textContent = "REEL BUILD ERROR: " + (e && e.message); el.style.display = "flex"; console.error(e);
+    tl.set({{}}, {{}}, P.D);
+  }}
+  window.__timelines["main"] = tl;
+</script>
+</body>
+</html>

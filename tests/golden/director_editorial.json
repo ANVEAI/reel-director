@@ -1,0 +1,195 @@
+{
+ "notes": [
+  "media: 1 real-media insert(s) planned (calm-premium recipe, visual share 25%, face-off cap 40%)",
+  "transition into 'turn' skipped: hard cuts stay >= 90% (EP T1)",
+  "transition into 'cta' skipped: hard cuts stay >= 90% (EP T1)",
+  "director plan pace: 5 visual changes, median gap 2.24 s, CV 0.43 (between changes)"
+ ],
+ "script": {
+  "fps": 30,
+  "height": 1920,
+  "music": {
+   "auto": true,
+   "mood": "calm",
+   "why": "bed by style.music_mood, ducked under the voice (TR T06)"
+  },
+  "shots": [
+   {
+    "cues": [
+     {
+      "at": "Most",
+      "auto": true,
+      "paraphrase": true,
+      "text": "3 HOURS PER REEL?",
+      "type": "title",
+      "until": "editing",
+      "why": "hook text on screen by 0.3 s, <=7 words (EP H3, HS08)"
+     },
+     {
+      "at": "waste",
+      "auto": true,
+      "level": "M",
+      "type": "punch",
+      "why": "hook pattern interrupt: first visual change by 1.0 s (EP H2, HS07)"
+     },
+     {
+      "at": "waste",
+      "auto": true,
+      "id": "snd.hit.soft",
+      "level_db": -3.0,
+      "role": "hook",
+      "type": "sfx",
+      "why": "hook hit on the pattern interrupt (SD 5)"
+     },
+     {
+      "at": "three",
+      "auto": true,
+      "type": "emphasis",
+      "why": "emphasis on number (CG 5: <=1 per chunk, <=15% of words)"
+     }
+    ],
+    "id": "hook",
+    "line": "Most creators waste three hours editing one reel."
+   },
+   {
+    "cues": [
+     {
+      "at": "edit",
+      "auto": true,
+      "family": "screen",
+      "from_card": true,
+      "hold": 0.5,
+      "icon": "circle-check",
+      "kb": [
+       1.1,
+       1.1,
+       3,
+       0,
+       -3,
+       0
+      ],
+      "kind": "media",
+      "layout": "full",
+      "media": "video",
+      "paid_ok": true,
+      "providers": [
+       "library",
+       "pixabay",
+       "coverr",
+       "wikimedia",
+       "archive",
+       "nasa",
+       "youtube_cc",
+       "claude_clip",
+       "veo",
+       "higgsfield"
+      ],
+      "query": "video editing timeline on a laptop screen",
+      "slot": "turn.3",
+      "text": "EDIT: DONE",
+      "to_cut": true,
+      "treatment": "fullbleed",
+      "type": "broll",
+      "until": "record?",
+      "why": "real-media B-roll on a concrete noun (calm-premium recipe, contract v4)"
+     },
+     {
+      "at": "edit",
+      "auto": true,
+      "id": "snd.ui.tick",
+      "level_db": -14.0,
+      "on": "lead",
+      "role": "pop",
+      "type": "sfx",
+      "why": "pop as the B-roll card enters (SD 5)"
+     }
+    ],
+    "id": "turn",
+    "line": "What if the edit was finished before you even pressed record?"
+   },
+   {
+    "cues": [
+     {
+      "at": "Read",
+      "auto": true,
+      "items": [
+       "READ THE SCRIPT",
+       "HIT RECORD"
+      ],
+      "kind": "list",
+      "layout": "full",
+      "type": "broll",
+      "until": "record,",
+      "why": "list B-roll for a spoken enumeration (EP B5, TR T23)"
+     },
+     {
+      "at": "Read",
+      "auto": true,
+      "id": "snd.ui.tick",
+      "level_db": -14.0,
+      "on": "lead",
+      "role": "pop",
+      "type": "sfx",
+      "why": "pop as the B-roll card enters (SD 5)"
+     },
+     {
+      "at": "record,",
+      "auto": true,
+      "level": "M",
+      "type": "punch",
+      "why": "back from B-roll on a different framing (EP B6)"
+     },
+     {
+      "at": "the reel builds itself.",
+      "auto": true,
+      "sub": "Save this for your next reel",
+      "text": "Follow for more",
+      "type": "endcard",
+      "why": "CTA card over the last ~1.5 s, loop-friendly (EP C12)"
+     }
+    ],
+    "id": "cta",
+    "line": "Read the script, hit record, and the reel builds itself."
+   }
+  ],
+  "style": {
+   "accent": "#E4572E",
+   "background": "paper",
+   "bg": "#201B17",
+   "caption": "minimal",
+   "font": "Instrument Serif",
+   "look": {
+    "bgfx": {
+     "blur": 12,
+     "dim": 0.8
+    },
+    "grade": "warm",
+    "grain": 0.08,
+    "tone": {
+     "contrast": 0.06,
+     "fade": 0.015,
+     "sat": 0.96,
+     "split": {
+      "shadowHue": 190,
+      "shadowSat": 0.08
+     },
+     "temp": 0.06
+    },
+    "vignette": 0.22
+   },
+   "music_beds": [
+    "music.bed_lofi_jazz_loop8",
+    "music.bed_lofi_warm_loop8",
+    "music.bed_ambient_pad_loop8"
+   ],
+   "music_mood": "calm",
+   "pace": "calm",
+   "preset": "editorial",
+   "sfx_kit": "soft",
+   "text": "#FFFFFF",
+   "transitions": "soft"
+  },
+  "title": "Reel Director demo",
+  "width": 1080
+ }
+}

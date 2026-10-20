@@ -1,0 +1,184 @@
+{
+ "_note": "Recorded 2026-10-20 from images-api.nasa.gov (q=laptop, image), first 3 items.",
+ "collection": {
+  "version": "1.1",
+  "href": "http://images-api.nasa.gov/search?q=laptop&media_type=image&page_size=8",
+  "items": [
+   {
+    "href": "https://images-assets.nasa.gov/image/iss029e007212/collection.json",
+    "data": [
+     {
+      "center": "JSC",
+      "date_created": "2011-09-21T00:00:00Z",
+      "description": "ISS029-E-007212 (21 Sept. 2011) --- Japan Aerospace Exploration Agency astronaut Satoshi Furukawa, Expedition 29 flight engineer, installs a new T61p laptop to replace the previous A31p as OCA Router in the Joint Station LAN/Local Area Network (JSL LAN). The laptop is located in the hatch area of the Destiny laboratory of the International Space Station.",
+      "media_type": "image",
+      "nasa_id": "iss029e007212",
+      "title": "installing the new T61p laptop"
+     }
+    ],
+    "links": [
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007212/iss029e007212~medium.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1280,
+      "size": 140000,
+      "height": 850
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007212/iss029e007212~small.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 640,
+      "size": 46000,
+      "height": 425
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007212/iss029e007212~thumb.jpg",
+      "rel": "preview",
+      "render": "image",
+      "width": 640,
+      "size": 46000,
+      "height": 425
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007212/iss029e007212~large.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1920,
+      "size": 288000,
+      "height": 1275
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007212/iss029e007212~orig.jpg",
+      "rel": "canonical",
+      "render": "image",
+      "height": 2848,
+      "width": 4288,
+      "size": 1626000
+     }
+    ]
+   },
+   {
+    "href": "https://images-assets.nasa.gov/image/iss029e007213/collection.json",
+    "data": [
+     {
+      "center": "JSC",
+      "date_created": "2011-09-21T00:00:00Z",
+      "description": "ISS029-E-007213 (21 Sept. 2011) --- Japan Aerospace Exploration Agency astronaut Satoshi Furukawa, Expedition 29 flight engineer, installs a new T61p laptop to replace the previous A31p as OCA Router in the Joint Station LAN/Local Area Network (JSL LAN). The laptop is located in the hatch area of the Destiny laboratory of the International Space Station.",
+      "media_type": "image",
+      "nasa_id": "iss029e007213",
+      "title": "installing the new T61p laptop"
+     }
+    ],
+    "links": [
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007213/iss029e007213~medium.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1280,
+      "size": 134000,
+      "height": 850
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007213/iss029e007213~small.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 640,
+      "size": 44000,
+      "height": 425
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007213/iss029e007213~thumb.jpg",
+      "rel": "preview",
+      "render": "image",
+      "width": 640,
+      "size": 44000,
+      "height": 425
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007213/iss029e007213~large.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1920,
+      "size": 279000,
+      "height": 1275
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss029e007213/iss029e007213~orig.jpg",
+      "rel": "canonical",
+      "render": "image",
+      "height": 2848,
+      "width": 4288,
+      "size": 1604000
+     }
+    ]
+   },
+   {
+    "href": "https://images-assets.nasa.gov/image/iss002e7599/collection.json",
+    "data": [
+     {
+      "center": "JSC",
+      "date_created": "2001-05-16T00:00:00Z",
+      "description": "ISS002-E-7599 (16 May 2001) --- James S. Voss, Expedition Two flight engineer, communicates with Mission Control as he works on a laptop computer in Unity Node 1.  The image was taken with a digital still camera.",
+      "media_type": "image",
+      "nasa_id": "iss002e7599",
+      "title": "Voss in Destiny with laptop"
+     }
+    ],
+    "links": [
+     {
+      "href": "https://images-assets.nasa.gov/image/iss002e7599/iss002e7599~medium.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1280,
+      "size": 159000,
+      "height": 875
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss002e7599/iss002e7599~small.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 640,
+      "size": 55000,
+      "height": 437
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss002e7599/iss002e7599~thumb.jpg",
+      "rel": "preview",
+      "render": "image",
+      "width": 640,
+      "size": 55000,
+      "height": 437
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss002e7599/iss002e7599~large.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1920,
+      "size": 300000,
+      "height": 1312
+     },
+     {
+      "href": "https://images-assets.nasa.gov/image/iss002e7599/iss002e7599~orig.jpg",
+      "rel": "canonical",
+      "render": "image",
+      "height": 2092,
+      "width": 3060,
+      "size": 1400000
+     }
+    ]
+   }
+  ],
+  "metadata": {
+   "total_hits": 306
+  },
+  "links": [
+   {
+    "rel": "next",
+    "prompt": "Next",
+    "href": "http://images-api.nasa.gov/search?q=laptop&media_type=image&page_size=8&page=2"
+   }
+  ]
+ }
+}

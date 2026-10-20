@@ -1,0 +1,46 @@
+{
+ "_note": "Shaped from https://pixabay.com/api/docs/ (2026-10-20). Hit 2 is a full-access hit (imageURL present).",
+ "total": 2,
+ "totalHits": 2,
+ "hits": [
+  {
+   "id": 195893,
+   "pageURL": "https://pixabay.com/photos/alarm-clock-time-195893/",
+   "type": "photo",
+   "tags": "alarm clock, time, clock",
+   "previewURL": "https://cdn.pixabay.com/photo/2013/10/15/09/12/clock-195893_150.jpg",
+   "previewWidth": 150,
+   "previewHeight": 100,
+   "webformatURL": "https://pixabay.com/get/35bbf209e13e39d2_640.jpg",
+   "webformatWidth": 640,
+   "webformatHeight": 427,
+   "largeImageURL": "https://pixabay.com/get/ed6a99fd0a76647_1280.jpg",
+   "imageWidth": 4000,
+   "imageHeight": 6000,
+   "imageSize": 4731420,
+   "views": 7671,
+   "downloads": 6439,
+   "likes": 5,
+   "comments": 2,
+   "user_id": 48777,
+   "user": "Josch13",
+   "userImageURL": ""
+  },
+  {
+   "id": 73424,
+   "pageURL": "https://pixabay.com/photos/clock-wall-73424/",
+   "type": "photo",
+   "tags": "clock, wall clock",
+   "previewURL": "https://cdn.pixabay.com/photo/2012/11/28/clock-73424_150.jpg",
+   "webformatURL": "https://pixabay.com/get/aa_640.jpg",
+   "largeImageURL": "https://pixabay.com/get/aa_1280.jpg",
+   "fullHDURL": "https://pixabay.com/get/aa_1920.jpg",
+   "imageURL": "https://pixabay.com/get/aa.jpg",
+   "imageWidth": 3000,
+   "imageHeight": 3000,
+   "imageSize": 2000000,
+   "user_id": 1,
+   "user": "Alice"
+  }
+ ]
+}

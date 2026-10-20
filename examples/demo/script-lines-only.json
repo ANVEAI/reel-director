@@ -1,0 +1,12 @@
+{
+  "title": "Reel Director demo",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "style": {"preset": "bold-hustle"},
+  "shots": [
+    {"id": "hook", "line": "Most creators waste three hours editing one reel."},
+    {"id": "turn", "line": "What if the edit was finished before you even pressed record?"},
+    {"id": "cta", "line": "Read the script, hit record, and the reel builds itself."}
+  ]
+}

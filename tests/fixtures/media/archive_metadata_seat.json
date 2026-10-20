@@ -1,0 +1,155 @@
+{
+ "_note": "Recorded 2026-10-20 from archive.org/metadata/seat_20260723, files trimmed to media formats.",
+ "metadata": {
+  "identifier": "seat_20260723",
+  "mediatype": "movies",
+  "collection": "opensource_movies",
+  "creator": "Brobot",
+  "date": "2026-07-23",
+  "description": "seven",
+  "language": "eng",
+  "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+  "subject": "clock",
+  "title": "seat",
+  "uploader": "uploader@example.org",
+  "publicdate": "2026-07-23 07:17:59",
+  "addeddate": "2026-07-23 07:17:59",
+  "curation": "[curator]validator@archive.org[/curator][date]20260723071900[/date][comment]checked for malware[/comment]"
+ },
+ "files": [
+  {
+   "name": "__ia_thumb.jpg",
+   "source": "original",
+   "mtime": "1784791223",
+   "size": "5161",
+   "md5": "1c55f7336b54846c5a42cd1705d777e3",
+   "crc32": "6799aa03",
+   "sha1": "1ea825ec1f5950a05ec861d5d1f12c4d9d9b853e",
+   "format": "Item Tile"
+  },
+  {
+   "name": "seat.mp4",
+   "source": "original",
+   "mtime": "1784791055",
+   "size": "5727374",
+   "md5": "cbe58c13de841305f0a60fbf60c5b4c1",
+   "crc32": "660ac85d",
+   "sha1": "7ccfb45e610df1a2f7a1983fc0a2700367775b5b",
+   "format": "MPEG4",
+   "length": "81.05",
+   "width": "640",
+   "height": "360"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000001.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791160",
+   "size": "22891",
+   "md5": "626d267041a0e2df4a7d511d2b43047a",
+   "crc32": "e44d24d9",
+   "sha1": "274255a9c9e1b5408a72cc350c49882af7373464"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000005.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791160",
+   "size": "18053",
+   "md5": "dd8c56ef4bcc6a8ed8a2225af0bb3b4b",
+   "crc32": "9061c584",
+   "sha1": "01b00029e28148a7bc38911609fc0dd1a75f95fa"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000010.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791161",
+   "size": "26630",
+   "md5": "4dfd93dec4a67f6491d7e03037644e9c",
+   "crc32": "0b64bb06",
+   "sha1": "3ebde151e572e995fe8da1d238bbd7a02b803143"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000015.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791161",
+   "size": "33989",
+   "md5": "26558faa0e77f83402761f5ee2fac528",
+   "crc32": "d94b393b",
+   "sha1": "3c5427df964a843cf4832270bb8eed0a589fe86a"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000020.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791161",
+   "size": "31947",
+   "md5": "737c0ffca3680db3199e4118b860ac39",
+   "crc32": "dad8aa44",
+   "sha1": "11b76015e407b50f9e555d5a98e5b01f93a87a28"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000025.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791162",
+   "size": "51117",
+   "md5": "2f26b3dda8b896ab42c30238e684fe94",
+   "crc32": "9f8adfab",
+   "sha1": "c1c51325e8cdc3ae4a12eb038c579350bccd6680"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000030.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791162",
+   "size": "40111",
+   "md5": "674a54690c6bdfd3b1a51db66bab58ec",
+   "crc32": "72529a35",
+   "sha1": "b10f52747108a2f24bacad168147b5ab3b61f962"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000035.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791163",
+   "size": "21878",
+   "md5": "b249d9c7b9e7e02aea7d15f7a6bccef2",
+   "crc32": "5b0dcc2a",
+   "sha1": "34e5b15e32406a503bf2d4f6af053e432cc70aa8"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000040.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791163",
+   "size": "22005",
+   "md5": "60853e988028c40ac78cc7495cf4fac3",
+   "crc32": "3e90c8dd",
+   "sha1": "aee768d8fc4b501f3ff7dd734474fc358621122d"
+  },
+  {
+   "name": "seat_20260723.thumbs/seat_000045.jpg",
+   "source": "derivative",
+   "format": "Thumbnail",
+   "original": "seat.mp4",
+   "mtime": "1784791164",
+   "size": "25858",
+   "md5": "8bd946ce09b64d3a4abec705184b8f1a",
+   "crc32": "aeae7f08",
+   "sha1": "ba9bb451ab47293fcaaafc712ef33924092ac0a8"
+  }
+ ]
+}

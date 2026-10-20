@@ -1,0 +1,53 @@
+{
+ "_note": "Recorded 2026-10-20 from archive.org advancedsearch (clock, movies, allowed license URLs, curated collections prelinger/fedflix/nasa); descriptions trimmed.",
+ "responseHeader": {
+  "status": 0,
+  "QTime": 164,
+  "params": {
+   "query": "(title:clock OR subject:clock OR description:clock) AND mediatype:movies AND licenseurl:(&quot;http\\:\\/\\/creativecommons.org/licenses/publicdomain/&quot; OR &quot;http\\:\\/\\/creativecommons.org/publicdomain/mark/1.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/publicdomain/zero/1.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/publicdomain/zero/1.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/publicdomain/mark/1.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by/1.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by/2.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by/2.5/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by/3.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by/4.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by-sa/1.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by-sa/2.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by-sa/2.5/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by-sa/3.0/&quot; OR &quot;http\\:\\/\\/creativecommons.org/licenses/by-sa/4.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by/1.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by/2.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by/2.5/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by/3.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by/4.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by-sa/1.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by-sa/2.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by-sa/2.5/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by-sa/3.0/&quot; OR &quot;https\\:\\/\\/creativecommons.org/licenses/by-sa/4.0/&quot;) AND collection:(prelinger OR fedflix OR nasa)",
+   "qin": "(title:(clock) OR subject:(clock) OR description:(clock)) AND mediatype:movies AND licenseurl:(&quot;http://creativecommons.org/licenses/publicdomain/&quot; OR &quot;http://creativecommons.org/publicdomain/mark/1.0/&quot; OR &quot;http://creativecommons.org/publicdomain/zero/1.0/&quot; OR &quot;https://creativecommons.org/publicdomain/zero/1.0/&quot; OR &quot;https://creativecommons.org/publicdomain/mark/1.0/&quot; OR &quot;http://creativecommons.org/licenses/by/1.0/&quot; OR &quot;http://creativecommons.org/licenses/by/2.0/&quot; OR &quot;http://creativecommons.org/licenses/by/2.5/&quot; OR &quot;http://creativecommons.org/licenses/by/3.0/&quot; OR &quot;http://creativecommons.org/licenses/by/4.0/&quot; OR &quot;http://creativecommons.org/licenses/by-sa/1.0/&quot; OR &quot;http://creativecommons.org/licenses/by-sa/2.0/&quot; OR &quot;http://creativecommons.org/licenses/by-sa/2.5/&quot; OR &quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; OR &quot;http://creativecommons.org/licenses/by-sa/4.0/&quot; OR &quot;https://creativecommons.org/licenses/by/1.0/&quot; OR &quot;https://creativecommons.org/licenses/by/2.0/&quot; OR &quot;https://creativecommons.org/licenses/by/2.5/&quot; OR &quot;https://creativecommons.org/licenses/by/3.0/&quot; OR &quot;https://creativecommons.org/licenses/by/4.0/&quot; OR &quot;https://creativecommons.org/licenses/by-sa/1.0/&quot; OR &quot;https://creativecommons.org/licenses/by-sa/2.0/&quot; OR &quot;https://creativecommons.org/licenses/by-sa/2.5/&quot; OR &quot;https://creativecommons.org/licenses/by-sa/3.0/&quot; OR &quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;) AND collection:(prelinger OR fedflix OR nasa)",
+   "fields": "identifier,title,licenseurl,creator,subject,description,collection",
+   "wt": "json",
+   "rows": 6,
+   "start": 0
+  }
+ },
+ "response": {
+  "numFound": 2,
+  "start": 0,
+  "docs": [
+   {
+    "collection": [
+     "prelinger"
+    ],
+    "creator": "RKO-Pathe",
+    "description": "Encourages American workers to make the best possible use of their time in a war where industrial production and combat are synchronized on an international level.",
+    "identifier": "Conquerb1943",
+    "licenseurl": "http://creativecommons.org/licenses/publicdomain/",
+    "subject": [
+     "World War II: Homefront",
+     "Timekeeping",
+     "Globalization"
+    ],
+    "title": "Conquer by the Clock"
+   },
+   {
+    "collection": [
+     "jsc-pao-video-collection",
+     "nasa"
+    ],
+    "creator": "NASA",
+    "description": "Item ID: 74581 Item Title: MERCURY, GEMINI, APOLLO HDTV RESOURCE Production Number: CL1527 HDCAM Tape Number: 803028 TRT: 01:49:00 Edited highlights of film footage transferred to HDTV by the Discovery Channel for their NASA Greatest Missions Mercury, Gemini and Apollo programs. Includes: 01:00:15 - Mercury Program astronauts at press conference and during training; workers assembling Mercury spac",
+    "identifier": "MercuryGeminiApolloHdResourceReel",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "subject": [
+     "NASA",
+     "Mercury",
+     "Gemini",
+     "Apollo"
+    ],
+    "title": "Mercury, Gemini, Apollo HD Resource Reel"
+   }
+  ]
+ }
+}

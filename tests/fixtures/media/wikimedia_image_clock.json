@@ -1,0 +1,372 @@
+{
+ "_note": "Recorded 2026-10-20 from commons.wikimedia.org (q=clock filetype:bitmap), trimmed to 4 pages; page 999000001 is a synthetic NC copy (must be rejected).",
+ "batchcomplete": true,
+ "continue": {
+  "gsroffset": 8,
+  "continue": "gsroffset||"
+ },
+ "query": {
+  "pages": [
+   {
+    "pageid": 23131866,
+    "ns": 6,
+    "title": "File:Pendulum clock by Jacob Kock, antique furniture photography, IMG 0931 edit.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 8708982,
+      "width": 3378,
+      "height": 4622,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg/500px-Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 480,
+      "thumbheight": 657,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23131866",
+      "extmetadata": {
+       "ObjectName": {
+        "value": "Pendulum clock by Jacob Kock, antique furniture photography, IMG 0931 edit",
+        "source": "mediawiki-metadata"
+       },
+       "Categories": {
+        "value": "Taken with Canon EOS 5D Mark II|CC-Zero|Cartel clocks|Self-published work|Featured pictures of Stockholm|Time 08:17|Files by Christoph Braun|Featured photographs in the public domain|Illustrations used in Salute, Jonathan!",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "A gilded Gustavian style pendulum clock by Jacob Kock, Stockholm (Swedish watchmaker, 1737–1805).",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christoph_Braun\" title=\"User:Christoph Braun\">Christoph Braun</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg",
+      "mediatype": "BITMAP"
+     }
+    ]
+   },
+   {
+    "pageid": 56202067,
+    "ns": 6,
+    "title": "File:Matthew Norman carriage clock.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 1811309,
+      "width": 3488,
+      "height": 3104,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Matthew_Norman_carriage_clock.jpg/500px-Matthew_Norman_carriage_clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 480,
+      "thumbheight": 427,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Matthew_Norman_carriage_clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Matthew_Norman_carriage_clock.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56202067",
+      "extmetadata": {
+       "ObjectName": {
+        "value": "Matthew Norman carriage clock",
+        "source": "mediawiki-metadata"
+       },
+       "Categories": {
+        "value": "Taken with Panasonic Lumix DMC-G85/G80|Swiss Made|Carriage clocks|Self-published work|Featured photos of PetarM|Time 11:35|Objects with black background|Reflections in horizontal glass",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "Matthew Norman carriage clock with winding key. Height around 10 cm (without handle). Stacked image.",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg",
+      "mediatype": "BITMAP"
+     }
+    ]
+   },
+   {
+    "pageid": 57855755,
+    "ns": 6,
+    "title": "File:\"The Elephant Clock\", Folio from a Book of the Knowledge of Ingenious Mechanical Devices by al-Jazari MET DP234075.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 2700979,
+      "width": 2522,
+      "height": 3596,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%22The_Elephant_Clock%22%2C_Folio_from_a_Book_of_the_Knowledge_of_Ingenious_Mechanical_Devices_by_al-Jazari_MET_DP234075.jpg/500px-%22The_Elephant_Clock%22%2C_Folio_from_a_Book_of_the_Knowledge_of_Ingenious_Mechanical_Devices_by_al-Jazari_MET_DP234075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 480,
+      "thumbheight": 684,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%22The_Elephant_Clock%22%2C_Folio_from_a_Book_of_the_Knowledge_of_Ingenious_Mechanical_Devices_by_al-Jazari_MET_DP234075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22The_Elephant_Clock%22,_Folio_from_a_Book_of_the_Knowledge_of_Ingenious_Mechanical_Devices_by_al-Jazari_MET_DP234075.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57855755",
+      "extmetadata": {
+       "ObjectName": {
+        "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>\"The Elephant Clock\", Folio from a Book of the Knowledge of Ingenious Mechanical Devices by al-Jazari</i></div></div><div style=\"display: none;\">label QS:Len,\"\"The Elephant Clock\", Folio from a Book of the Knowledge of Ingenious Mechanical Devices by al-Jazari\"</div><div style=\"display: none;\">label QS:Lar,\"ساعة الفيل، مخطوطٌ من كتاب الجامع بين العلم والعمل النافع في صناعة الحيل\"</div></div>",
+        "source": "commons-desc-page"
+       },
+       "Categories": {
+        "value": "CC-Zero|\"The Elephant Clock\", Folio from a Book of the Knowledge of Ingenious Mechanical Devices by al-Jazari MET 57.51.23|Artworks with Wikidata item|Artworks with known accession number|Images from Metropolitan Museum of Art|Featured pictures on Wikipedia, Persian|GWToolset Batch Upload|Artworks with Wikidata item redundant artist|Artworks with Wikidata item missing medium|Artworks with Wikidata item missing genre|Artworks digital representation of unknown type of work|Files with Assessments template missing SDC Commons no value quality assessment|Artworks with digital representation of different depicts|Featured pictures on Wikipedia, Arabic|Farrukh ibn `Abd al-Latif",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ismail_al-Jazari\" class=\"extiw\" title=\"w:en:Ismail al-Jazari\"><span title=\"mathematician and engineer from Jazira, Artuqid State (1164–1206)\">al-Jazari</span></a></bdi>",
+        "source": "commons-desc-page"
+       },
+       "ImageDescription": {
+        "value": "<div class=\"description\">\n<dl><dt>Folio from an illustrated manuscript; Codices</dt></dl></div>",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg",
+      "mediatype": "BITMAP"
+     }
+    ]
+   },
+   {
+    "pageid": 3668596,
+    "ns": 6,
+    "title": "File:Clock Tower - Palace of Westminster, London - September 2006-2.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 3970243,
+      "width": 2558,
+      "height": 5500,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006-2.jpg/500px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 480,
+      "thumbheight": 1032,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clock_Tower_-_Palace_of_Westminster,_London_-_September_2006-2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3668596",
+      "extmetadata": {
+       "ObjectName": {
+        "value": "Clock Tower - Palace of Westminster, London - September 2006-2",
+        "source": "mediawiki-metadata"
+       },
+       "Categories": {
+        "value": "GFDL|Exterior of Elizabeth Tower|License migration redundant|Self-published work|Featured pictures on Wikipedia, Persian|Formerly featured pictures on Wikipedia, English|Time 04:43|Photographs by User:Diliff|Featured pictures by User:Diliff|United Kingdom photographs taken on 2006-09-17|Files with coordinates missing SDC location of creation (51° N, 1° W)|Featured pictures of Elizabeth Tower",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "The Clock Tower of the Palace of Westminster, now known as Elizabeth Tower but colloquially known as \"Big Ben\", in Westminster, London, England.",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "image/jpeg",
+      "mediatype": "BITMAP"
+     }
+    ]
+   },
+   {
+    "pageid": 999000001,
+    "ns": 6,
+    "title": "File:Synthetic NC clock.jpg",
+    "index": 99,
+    "imagerepository": "local",
+    "imageinfo": [
+     {
+      "size": 3970243,
+      "width": 2558,
+      "height": 5500,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006-2.jpg/500px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 480,
+      "thumbheight": 1032,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Clock_Tower_-_Palace_of_Westminster%2C_London_-_September_2006-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clock_Tower_-_Palace_of_Westminster,_London_-_September_2006-2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3668596",
+      "extmetadata": {
+       "ObjectName": {
+        "value": "Clock Tower - Palace of Westminster, London - September 2006-2",
+        "source": "mediawiki-metadata"
+       },
+       "Categories": {
+        "value": "GFDL|Exterior of Elizabeth Tower|License migration redundant|Self-published work|Featured pictures on Wikipedia, Persian|Formerly featured pictures on Wikipedia, English|Time 04:43|Photographs by User:Diliff|Featured pictures by User:Diliff|United Kingdom photographs taken on 2006-09-17|Files with coordinates missing SDC location of creation (51° N, 1° W)|Featured pictures of Elizabeth Tower",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "The Clock Tower of the Palace of Westminster, now known as Elizabeth Tower but colloquially known as \"Big Ben\", in Westminster, London, England.",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC BY-NC-SA 4.0"
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc-by-nc-sa-4.0"
+       }
+      },
+      "mime": "image/jpeg",
+      "mediatype": "BITMAP"
+     }
+    ]
+   }
+  ]
+ }
+}

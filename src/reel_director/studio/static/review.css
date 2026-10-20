@@ -1,0 +1,15 @@
+/* Build result: the QA verdict, the gate list, the editing director and the before/after sheet (contract v2).
+   Uses studio.css tokens (--ok / --warn / --fail, --line, --panel-2). */
+.check.opt { margin: 0 0 8px; }
+.reel-info { max-width: 420px; overflow-y: auto; max-height: min(80vh, 760px); }
+.reel-qa { display: flex; flex-direction: column; gap: 8px; border-top: 1px solid var(--line); padding-top: 10px; }
+.qa-verdict { margin: 0; font-weight: 700; }
+.qa-verdict .pill { display: inline-block; padding: 2px 10px; border-radius: 999px; margin-right: 8px; color: #0b0b0f; }
+.qa-verdict .ship { background: var(--ok); }
+.qa-verdict .fix { background: var(--warn); }
+.qa-verdict .block { background: var(--fail); }
+.qa-gates { font-size: 12px; line-height: 1.4; }
+.qa-gates li { margin-bottom: 3px; }
+.qa-gates b { text-transform: uppercase; font-size: 10px; letter-spacing: .04em; margin-right: 4px; }
+.qa-ba { display: block; width: 100%; border-radius: 8px; border: 1px solid var(--line); background: var(--panel-2); }
+@media (max-width: 900px) { .reel-info { max-width: none; max-height: none; } }

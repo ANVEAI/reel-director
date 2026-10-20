@@ -1,0 +1,37 @@
+{
+  "title": "Reel Director demo",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "style": {"accent": "#FFD400"},
+  "music": {"src": "media/bed.wav", "volume": 0.16},
+  "shots": [
+    {
+      "id": "hook",
+      "line": "Most creators waste three hours editing one reel.",
+      "cues": [
+        {"type": "sfx", "at": "waste", "src": "media/whoosh.wav", "lead": 0.12},
+        {"type": "emphasis", "at": "waste"},
+        {"type": "overlay", "at": "three hours", "text": "3 HRS / REEL"},
+        {"type": "zoom", "at": "one reel", "scale": 1.14}
+      ]
+    },
+    {
+      "id": "turn",
+      "line": "What if the edit was finished before you even pressed record?",
+      "cues": [
+        {"type": "cutaway", "at": "finished", "until": "record", "text": "EDIT FIRST. RECORD LAST."},
+        {"type": "sfx", "at": "finished", "src": "media/pop.wav"}
+      ]
+    },
+    {
+      "id": "cta",
+      "line": "Read the script, hit record, and the reel builds itself.",
+      "cues": [
+        {"type": "overlay", "at": "builds itself", "text": "AUTO-ASSEMBLED"},
+        {"type": "emphasis", "at": "builds itself"},
+        {"type": "sfx", "at": "builds", "src": "media/pop.wav"}
+      ]
+    }
+  ]
+}

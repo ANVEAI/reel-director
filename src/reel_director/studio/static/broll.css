@@ -1,0 +1,21 @@
+/* B-roll panel (v4): media picks with licences, alternates and paid approvals. */
+.br-list { list-style: none; margin: 8px 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.br-item { border: 1px solid var(--line); border-radius: var(--radius); padding: 8px; background: var(--panel-2, #17171f); }
+.br-item.rejected, .br-item.unresolved { opacity: 0.8; }
+.br-main { display: flex; gap: 10px; align-items: flex-start; }
+.br-thumb { flex: none; width: 72px; height: 96px; border-radius: 8px; object-fit: cover; background: #000; }
+.br-thumb.empty { display: flex; align-items: center; justify-content: center; color: var(--faint); font-size: 18px; }
+.br-meta { min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.br-at { font-size: 13px; overflow-wrap: anywhere; }
+.br-badges { display: flex; flex-wrap: wrap; gap: 4px; }
+.br-attr { overflow-wrap: anywhere; }
+.br-actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.br-actions select, .br-actions button, .br-alt button { font-size: 12px; }
+.br-alts { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 8px; margin-top: 8px; }
+.br-alt { margin: 0; display: flex; flex-direction: column; gap: 4px; }
+.br-alt.paid { outline: 1px dashed var(--warn); outline-offset: 2px; border-radius: 8px; }
+.br-alt-thumb { width: 100%; aspect-ratio: 3 / 4; border-radius: 6px; object-fit: cover; background: #000; }
+.br-alt-thumb.empty { display: flex; align-items: center; justify-content: center; color: var(--faint); }
+.br-alt figcaption { display: flex; flex-direction: column; align-items: flex-start; gap: 3px; overflow-wrap: anywhere; }
+.br-alt button { max-width: 100%; white-space: normal; }
+.br-credits ul { margin: 6px 0 0; padding-left: 16px; color: var(--muted); }

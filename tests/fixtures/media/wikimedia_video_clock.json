@@ -1,0 +1,419 @@
+{
+ "_note": "Recorded 2026-10-20 from commons.wikimedia.org (q=clock filetype:video), first 3 pages.",
+ "batchcomplete": true,
+ "continue": {
+  "gsroffset": 8,
+  "continue": "gsroffset||"
+ },
+ "query": {
+  "pages": [
+   {
+    "pageid": 107962991,
+    "ns": 6,
+    "title": "File:Coventry lady Godiva clock.webm",
+    "index": 1,
+    "imagerepository": "local",
+    "videoinfo": [
+     {
+      "size": 57304901,
+      "width": 720,
+      "height": 1280,
+      "duration": 67.07300000000001,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Coventry_lady_Godiva_clock.webm/500px--Coventry_lady_Godiva_clock.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "thumbwidth": 480,
+      "thumbheight": 853,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coventry_lady_Godiva_clock.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coventry_lady_Godiva_clock.webm",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107962991",
+      "extmetadata": {
+       "DateTime": {
+        "value": "2021-07-28 21:01:46",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+       },
+       "ObjectName": {
+        "value": "Coventry lady Godiva clock",
+        "source": "mediawiki-metadata"
+       },
+       "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+       },
+       "Categories": {
+        "value": "Clocks|Coventry|Lady Godiva|License review needed (video)|Street clocks in the United Kingdom|Uploaded with video2commons|Videos from Warwickshire",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "Clock in Coventry featuring Lady Godiva",
+        "source": "commons-desc-page"
+       },
+       "DateTimeOriginal": {
+        "value": "2018",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Secretlondon\" title=\"User:Secretlondon\">Secretlondon</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Secretlondon\" title=\"User talk:Secretlondon\"><span class=\"signature-talk\">talk</span></a>)",
+        "source": "commons-desc-page"
+       },
+       "Permission": {
+        "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+       },
+       "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "video/webm",
+      "mediatype": "VIDEO",
+      "derivatives": [
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coventry_lady_Godiva_clock.webm?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "width": 720,
+        "height": 1280,
+        "bandwidth": 6834929
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Coventry_lady_Godiva_clock.webm/Coventry_lady_Godiva_clock.webm.240p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "240p.vp9.webm",
+        "width": 136,
+        "height": 240,
+        "bandwidth": 195744
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Coventry_lady_Godiva_clock.webm/Coventry_lady_Godiva_clock.webm.360p.mpeg4.mov",
+        "type": "video/quicktime; codecs=\"mp4v\"",
+        "transcodekey": "360p.mpeg4.mov",
+        "width": 202,
+        "height": 360,
+        "bandwidth": 1136888
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Coventry_lady_Godiva_clock.webm/Coventry_lady_Godiva_clock.webm.480p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "480p.vp9.webm",
+        "width": 270,
+        "height": 480,
+        "bandwidth": 629176
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Coventry_lady_Godiva_clock.webm/Coventry_lady_Godiva_clock.webm.1080p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "1080p.vp9.webm",
+        "width": 608,
+        "height": 1080,
+        "bandwidth": 2696432
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "pageid": 165582105,
+    "ns": 6,
+    "title": "File:Clock by Veo 2.webm",
+    "index": 2,
+    "imagerepository": "local",
+    "videoinfo": [
+     {
+      "size": 938048,
+      "width": 1280,
+      "height": 720,
+      "duration": 8,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Clock_by_Veo_2.webm/500px--Clock_by_Veo_2.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "thumbwidth": 480,
+      "thumbheight": 270,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Clock_by_Veo_2.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clock_by_Veo_2.webm",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165582105",
+      "extmetadata": {
+       "DateTime": {
+        "value": "2025-05-19 06:33:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+       },
+       "ObjectName": {
+        "value": "Clock by Veo 2",
+        "source": "mediawiki-metadata"
+       },
+       "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+       },
+       "Categories": {
+        "value": "CC-Zero|PD-algorithm|Clocks in art|Videos of clocks|Videos by Veo (text-to-video model)",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "Short video created with the prompt \"create a video of a working clock\" in Gemini Advanced",
+        "source": "commons-desc-page"
+       },
+       "DateTimeOriginal": {
+        "value": "2025-05-18",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "Gemini",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "Veo 2; prompted by FallingGravity",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Restrictions": {
+        "value": "ai",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "video/webm",
+      "mediatype": "VIDEO",
+      "derivatives": [
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Clock_by_Veo_2.webm?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+        "type": "video/webm; codecs=\"vp9\"",
+        "width": 1280,
+        "height": 720,
+        "bandwidth": 938048
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/Clock_by_Veo_2.webm/Clock_by_Veo_2.webm.240p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "240p.vp9.webm",
+        "width": 426,
+        "height": 240,
+        "bandwidth": 147968
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/Clock_by_Veo_2.webm/Clock_by_Veo_2.webm.360p.mpeg4.mov",
+        "type": "video/quicktime; codecs=\"mp4v\"",
+        "transcodekey": "360p.mpeg4.mov",
+        "width": 640,
+        "height": 360,
+        "bandwidth": 863472
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/Clock_by_Veo_2.webm/Clock_by_Veo_2.webm.480p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "480p.vp9.webm",
+        "width": 854,
+        "height": 480,
+        "bandwidth": 593752
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "pageid": 17866092,
+    "ns": 6,
+    "title": "File:Kremlin Clock chimes in 2012.ogv",
+    "index": 3,
+    "imagerepository": "local",
+    "videoinfo": [
+     {
+      "size": 22834914,
+      "width": 1920,
+      "height": 1080,
+      "duration": 61.32,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Kremlin_Clock_chimes_in_2012.ogv/500px--Kremlin_Clock_chimes_in_2012.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "thumbwidth": 480,
+      "thumbheight": 270,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kremlin_Clock_chimes_in_2012.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kremlin_Clock_chimes_in_2012.ogv",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17866092",
+      "extmetadata": {
+       "DateTime": {
+        "value": "2011-12-31 21:41:07",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+       },
+       "ObjectName": {
+        "value": "Kremlin Clock chimes in 2012",
+        "source": "mediawiki-metadata"
+       },
+       "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+       },
+       "Categories": {
+        "value": "Clocks of Moscow Kremlin Tower|Featured media|Media of the day|Ogv videos|Featured pictures of Moscow|Featured videos of Russia|December 2011 in Moscow|January 2012 in Moscow|Videos of 2011 from Moscow|Videos of 2012 from Moscow|Video display resolution 1920 x 1080|Files from Kremlin.ru, 2012|Featured media of Europe|Featured media uploaded by Russavia|Kremlin.ru videos",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "Assessments": {
+        "value": "featured",
+        "source": "commons-categories",
+        "hidden": ""
+       },
+       "ImageDescription": {
+        "value": "The Kremlin Clock chimes to bring in 2012",
+        "source": "commons-desc-page"
+       },
+       "DateTimeOriginal": {
+        "value": "2012-01-01",
+        "source": "commons-desc-page"
+       },
+       "Credit": {
+        "value": "extracted from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.kremlin.ru/video/1076?page=1\">http://www.kremlin.ru/video/1076?page=1</a>",
+        "source": "commons-desc-page"
+       },
+       "Artist": {
+        "value": "Presidential Press and Information Office",
+        "source": "commons-desc-page"
+       },
+       "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+       },
+       "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Attribution": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.kremlin.ru\">Kremlin.ru</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+       },
+       "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+       },
+       "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+       }
+      },
+      "mime": "application/ogg",
+      "mediatype": "VIDEO",
+      "derivatives": [
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kremlin_Clock_chimes_in_2012.ogv?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+        "type": "video/ogg; codecs=\"theora, vorbis\"",
+        "width": 1920,
+        "height": 1080,
+        "bandwidth": 2979074
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Kremlin_Clock_chimes_in_2012.ogv/Kremlin_Clock_chimes_in_2012.ogv.240p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "240p.vp9.webm",
+        "width": 426,
+        "height": 240,
+        "bandwidth": 181888
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Kremlin_Clock_chimes_in_2012.ogv/Kremlin_Clock_chimes_in_2012.ogv.480p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "480p.vp9.webm",
+        "width": 854,
+        "height": 480,
+        "bandwidth": 444144
+       },
+       {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Kremlin_Clock_chimes_in_2012.ogv/Kremlin_Clock_chimes_in_2012.ogv.1080p.vp9.webm",
+        "type": "video/webm; codecs=\"vp9, opus\"",
+        "transcodekey": "1080p.vp9.webm",
+        "width": 1920,
+        "height": 1080,
+        "bandwidth": 1920040
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
